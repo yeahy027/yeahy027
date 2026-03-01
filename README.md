@@ -44,9 +44,6 @@ Here are some ideas to get you started:
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <br>
     <div align= "center">
-        <a href="https://github.com/devxb/gitanimals">
-          <img src="https://render.gitanimals.org/farms/{yeahy027}"/>
-        </a>
         <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yeahy027&utm_content=farm">
             <img
               src="https://render.gitanimals.org/farms/yeahy027"
