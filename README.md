@@ -18,8 +18,11 @@ Here are some ideas to get you started:
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 백엔드 개발자, 김예영입니다. </h2>  
-    <div style="font-weight: 900; font-size: 20px; text-align: left; color: #282d33;"> 적극적 소통 </div>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 원활한 협업 과정과 자유로운 지식 공유를 위해 적극적으로 소통하고 함께 성장해 나가고 싶습니다 </div> 
+    ### 적극적 소통
+    <br>
+    ```text
+        원활한 협업 과정과 자유로운 지식 공유를 위해 적극적으로 소통하고 함께 성장해 나가고 싶습니다.
+    ```
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
